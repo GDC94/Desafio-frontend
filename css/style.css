@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@600&display=swap');
+
+
+:root {
+    --soft-red: hsl(7, 99%, 70%);
+    --yellow: hsl(51, 100%, 49%);
+    --font-family: 'Barlow', sans-serif;
+    --h1-size: 34px;
+
+}
+
+
+.h1 {
+
+    color: var(--h1-size);
+
+}
+
+
+
+
+
+
